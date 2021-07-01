@@ -1,0 +1,14 @@
+{
+    "name": "idriss/projet-composer",
+    "autoload": {
+        "psr-4": 
+        {"App\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "mixheaven",
+            "email": "mixheaven.mixheaven@hotmail.com"
+        }
+    ],
+    "require": {}
+}
