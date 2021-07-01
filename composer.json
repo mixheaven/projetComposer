@@ -10,5 +10,7 @@
             "email": "mixheaven.mixheaven@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
 }
